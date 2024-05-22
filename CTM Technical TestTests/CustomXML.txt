@@ -1,0 +1,143 @@
+Tech News - Latest Technology and Gadget News | Sky News https://news.sky.com/technology Tech News - Latest Technology and Gadget News | Sky News https://e3.365dm.com/skynews/logo.png https://news.sky.com/technology Sky News technology provides you with all the latest tech and gadget news, game reviews, Internet and web news across the globe. Visit us today. en-GB Copyright 2024, Sky UK. All Rights Reserved. Fri, 03 May 2024 17:29:00 +0100 Sky News 1 Why the moon's south pole is the chequered flag of space race 2.0 https://news.sky.com/story/why-the-moons-south-pole-is-the-chequered-flag-of-space-race-20-13128083 The far side of the moon is rugged and mysterious. Fri, 03 May 2024 12:35:00 +0100 https://news.sky.com/story/why-the-moons-south-pole-is-the-chequered-flag-of-space-race-20-13128083 The far side of the moon, photographed by China&#39;s Chang&#39;e-4 probe. Pic: CNSA/Techniques Spatiales Scientists find 'strong evidence' bird flu has passed from mammals to humans for first time https://news.sky.com/story/bird-flu-strong-evidence-suggests-virus-has-passed-from-mammals-to-humans-for-first-time-13128288 Scientists fear bird flu has spread from mammals to humans for the first time, marking another step in the evolution of the deadly virus. Fri, 03 May 2024 17:29:00 +0100 https://news.sky.com/story/bird-flu-strong-evidence-suggests-virus-has-passed-from-mammals-to-humans-for-first-time-13128288 Line of dairy cows being fed hay on a farm. Pic: iStock Incredible close-up photos of bees go on display in Liverpool https://news.sky.com/story/incredible-close-up-photos-of-bees-go-on-display-in-liverpool-13128191 These are bees as you've never seen them before. Fri, 03 May 2024 15:30:00 +0100 https://news.sky.com/story/incredible-close-up-photos-of-bees-go-on-display-in-liverpool-13128191 An orchid bee. Pic: Pete Carr What you need to know about NASA and China's space race - as Chinese lunar mission blasts off https://news.sky.com/story/chinese-mission-set-to-blast-off-to-far-side-of-moon-what-you-need-to-know-about-nasa-and-chinas-space-race-13127521 China's Chang'e-6 robotic spacecraft blasts off, hoping to become the first mission to collect rock and soil samples from the far side of the moon. Thu, 02 May 2024 14:10:00 +0100 https://news.sky.com/story/chinese-mission-set-to-blast-off-to-far-side-of-moon-what-you-need-to-know-about-nasa-and-chinas-space-race-13127521 China&#39;s Chang&#39;e-6 lunar probe launches from Wenchang, Hainan Province Apple reports sharp drop in iPhone sales https://news.sky.com/story/apple-reports-biggest-drop-in-iphone-sales-since-early-months-of-pandemic-and-reveals-ai-plans-13127660 Tech giant Apple has recorded the biggest drop in iPhone sales since the early months of the COVID pandemic. Thu, 02 May 2024 19:00:00 +0100 https://news.sky.com/story/apple-reports-biggest-drop-in-iphone-sales-since-early-months-of-pandemic-and-reveals-ai-plans-13127660 The new Apple iPhone 15 on display inside the tech giant&#39;s flagship store in Regent Street, central London. Picture date: Friday September 22, 2023. First wild animal seen using medicinal plant to treat wound https://news.sky.com/story/orangutan-seen-using-medicinal-plant-to-treat-wound-in-first-for-wild-animals-13127804 An orangutan has been observed using a plant with healing properties to treat a wound on its face, in what scientists say is a first for wild animals. Thu, 02 May 2024 21:59:00 +0100 https://news.sky.com/story/orangutan-seen-using-medicinal-plant-to-treat-wound-in-first-for-wild-animals-13127804 A wild male Sumatran orangutan with a wound on his right cheek . Pic: PA Universal artists to return to TikTok as dispute comes to an end https://news.sky.com/story/universal-artists-to-return-to-tiktok-as-dispute-comes-to-an-end-13127326 Universal Music and TikTok have ended a dispute over royalties after the label pulled millions of songs from the social media platform. Thu, 02 May 2024 08:37:00 +0100 https://news.sky.com/story/universal-artists-to-return-to-tiktok-as-dispute-comes-to-an-end-13127326 Taylor Swift performs at the Monumental stadium during her Eras Tour concert in Buenos Aires, Argentina, Thursday, Nov. 9, 2023. (AP Photo/Natacha Pisarenko) Magic mushrooms effective for treating depression - study https://news.sky.com/story/magic-mushrooms-effective-for-treating-depression-study-13127348 Magic mushrooms have the potential to be an effective antidepressant, according to new research. Thu, 02 May 2024 09:22:00 +0100 https://news.sky.com/story/magic-mushrooms-effective-for-treating-depression-study-13127348 Magic mushrooms London's black cab drivers file multimillion pound lawsuit against Uber https://news.sky.com/story/londons-black-cab-drivers-file-multimillion-pound-lawsuit-against-uber-13127341 Uber faces a multimillion-pound lawsuit from London's black cab drivers in a revival of the longstanding dispute over the operation of the ride-hailing app in the UK capital. Thu, 02 May 2024 09:04:00 +0100 https://news.sky.com/story/londons-black-cab-drivers-file-multimillion-pound-lawsuit-against-uber-13127341 Apple trying to fix iPhone's alarming problem - as Samsung posts jibe on social media https://news.sky.com/story/apple-trying-to-fix-iphones-alarming-problem-13127321 Apple is trying to fix a problem which caused some iPhone alarms to not go off. Thu, 02 May 2024 08:21:00 +0100 https://news.sky.com/story/apple-trying-to-fix-iphones-alarming-problem-13127321 Apple is trying to fix a problem causing some iPhone alarms to go off silently. Pic: iStock
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<atom:link href="https://feeds.skynews.com/feeds/rss/technology.xml" rel="self" type="application/rss+xml"/>
+<title>Tech News - Latest Technology and Gadget News | Sky News</title>
+<link>https://news.sky.com/technology</link>
+<image>
+<title>Tech News - Latest Technology and Gadget News | Sky News</title>
+<url>https://e3.365dm.com/skynews/logo.png</url>
+<link>https://news.sky.com/technology</link>
+...
+</image>
+<description>Sky News technology provides you with all the latest tech and gadget news, game reviews, Internet and web news across the globe. Visit us today.</description>
+<language>en-GB</language>
+<copyright>Copyright 2024, Sky UK. All Rights Reserved.</copyright>
+<lastBuildDate>Fri, 03 May 2024 17:29:00 +0100</lastBuildDate>
+<category>Sky News</category>
+<ttl>1</ttl>
+<item>
+<title>Why the moon's south pole is the chequered flag of space race 2.0</title>
+<link>https://news.sky.com/story/why-the-moons-south-pole-is-the-chequered-flag-of-space-race-20-13128083</link>
+<description>The far side of the moon is rugged and mysterious.</description>
+<pubDate>Fri, 03 May 2024 12:35:00 +0100</pubDate>
+<guid>https://news.sky.com/story/why-the-moons-south-pole-is-the-chequered-flag-of-space-race-20-13128083</guid>
+<enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-change-4-moon-far-side-of-moon_6541655.png?20240503125226" length="0" type="image/png"/>
+<media:description type="html">The far side of the moon, photographed by China&#39;s Chang&#39;e-4 probe. Pic: CNSA/Techniques Spatiales</media:description>
+<media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-change-4-moon-far-side-of-moon_6541655.png?20240503125226" width="1920" height="1080"/>
+<media:content type="image/png" url="https://e3.365dm.com/24/05/1920x1080/skynews-change-4-moon-far-side-of-moon_6541655.png?20240503125226"/>
+...
+</item>
+<item>
+<title>Scientists find 'strong evidence' bird flu has passed from mammals to humans for first time</title>
+<link>https://news.sky.com/story/bird-flu-strong-evidence-suggests-virus-has-passed-from-mammals-to-humans-for-first-time-13128288</link>
+<description>Scientists fear bird flu has spread from mammals to humans for the first time, marking another step in the evolution of the deadly virus.</description>
+<pubDate>Fri, 03 May 2024 17:29:00 +0100</pubDate>
+<guid>https://news.sky.com/story/bird-flu-strong-evidence-suggests-virus-has-passed-from-mammals-to-humans-for-first-time-13128288</guid>
+<enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-dairy-cows-farm_6542024.jpg?20240503174337" length="0" type="image/jpeg"/>
+<media:description type="html">Line of dairy cows being fed hay on a farm. Pic: iStock</media:description>
+<media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-dairy-cows-farm_6542024.jpg?20240503174337" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-dairy-cows-farm_6542024.jpg?20240503174337"/>
+...
+</item>
+<item>
+<title>Incredible close-up photos of bees go on display in Liverpool</title>
+<link>https://news.sky.com/story/incredible-close-up-photos-of-bees-go-on-display-in-liverpool-13128191</link>
+<description>These are bees as you've never seen them before. </description>
+<pubDate>Fri, 03 May 2024 15:30:00 +0100</pubDate>
+<guid>https://news.sky.com/story/incredible-close-up-photos-of-bees-go-on-display-in-liverpool-13128191</guid>
+<enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-orchid-bee-bee-bees_6541809.jpg?20240503150450" length="0" type="image/jpeg"/>
+<media:description type="html">An orchid bee. Pic: Pete Carr</media:description>
+<media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-orchid-bee-bee-bees_6541809.jpg?20240503150450" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-orchid-bee-bee-bees_6541809.jpg?20240503150450"/>
+...
+</item>
+<item>
+<title>What you need to know about NASA and China's space race - as Chinese lunar mission blasts off</title>
+<link>https://news.sky.com/story/chinese-mission-set-to-blast-off-to-far-side-of-moon-what-you-need-to-know-about-nasa-and-chinas-space-race-13127521</link>
+<description>China's Chang'e-6 robotic spacecraft blasts off, hoping to become the first mission to collect rock and soil samples from the far side of the moon.</description>
+<pubDate>Thu, 02 May 2024 14:10:00 +0100</pubDate>
+<guid>https://news.sky.com/story/chinese-mission-set-to-blast-off-to-far-side-of-moon-what-you-need-to-know-about-nasa-and-chinas-space-race-13127521</guid>
+<enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-china-moon_6541526.jpg?20240503105536" length="0" type="image/jpeg"/>
+<media:description type="html">China&#39;s Chang&#39;e-6 lunar probe launches from Wenchang, Hainan Province </media:description>
+<media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-china-moon_6541526.jpg?20240503105536" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-china-moon_6541526.jpg?20240503105536"/>
+...
+</item>
+<item>
+<title>Apple reports sharp drop in iPhone sales</title>
+<link>https://news.sky.com/story/apple-reports-biggest-drop-in-iphone-sales-since-early-months-of-pandemic-and-reveals-ai-plans-13127660</link>
+<description>Tech giant Apple has recorded the biggest drop in iPhone sales since the early months of the COVID pandemic.</description>
+<pubDate>Thu, 02 May 2024 19:00:00 +0100</pubDate>
+<guid>https://news.sky.com/story/apple-reports-biggest-drop-in-iphone-sales-since-early-months-of-pandemic-and-reveals-ai-plans-13127660</guid>
+<enclosure url="https://e3.365dm.com/23/09/1920x1080/skynews-iphone-15-apple-regent-street_6293676.jpg?20230922101431" length="0" type="image/jpeg"/>
+<media:description type="html">The new Apple iPhone 15 on display inside the tech giant&#39;s flagship store in Regent Street, central London. Picture date: Friday September 22, 2023.</media:description>
+<media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-iphone-15-apple-regent-street_6293676.jpg?20230922101431" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-iphone-15-apple-regent-street_6293676.jpg?20230922101431"/>
+...
+</item>
+<item>
+<title>First wild animal seen using medicinal plant to treat wound</title>
+<link>https://news.sky.com/story/orangutan-seen-using-medicinal-plant-to-treat-wound-in-first-for-wild-animals-13127804</link>
+<description>An orangutan has been observed using a plant with healing properties to treat a wound on its face, in what scientists say is a first for wild animals.</description>
+<pubDate>Thu, 02 May 2024 21:59:00 +0100</pubDate>
+<guid>https://news.sky.com/story/orangutan-seen-using-medicinal-plant-to-treat-wound-in-first-for-wild-animals-13127804</guid>
+<enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-sumatran-wound-pain_6540271.jpg?20240502232133" length="0" type="image/jpeg"/>
+<media:description type="html">A wild male Sumatran orangutan with a wound on his right cheek . Pic: PA </media:description>
+<media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-sumatran-wound-pain_6540271.jpg?20240502232133" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-sumatran-wound-pain_6540271.jpg?20240502232133"/>
+...
+</item>
+<item>
+<title>Universal artists to return to TikTok as dispute comes to an end</title>
+<link>https://news.sky.com/story/universal-artists-to-return-to-tiktok-as-dispute-comes-to-an-end-13127326</link>
+<description>Universal Music and TikTok have ended a dispute over royalties after the label pulled millions of songs from the social media platform.</description>
+<pubDate>Thu, 02 May 2024 08:37:00 +0100</pubDate>
+<guid>https://news.sky.com/story/universal-artists-to-return-to-tiktok-as-dispute-comes-to-an-end-13127326</guid>
+<enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-taylor-swift-argentina_6364404.jpg?20231118073623" length="0" type="image/jpeg"/>
+<media:description type="html">Taylor Swift performs at the Monumental stadium during her Eras Tour concert in Buenos Aires, Argentina, Thursday, Nov. 9, 2023. (AP Photo/Natacha Pisarenko)</media:description>
+<media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-taylor-swift-argentina_6364404.jpg?20231118073623" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-taylor-swift-argentina_6364404.jpg?20231118073623"/>
+...
+</item>
+<item>
+<title>Magic mushrooms effective for treating depression - study</title>
+<link>https://news.sky.com/story/magic-mushrooms-effective-for-treating-depression-study-13127348</link>
+<description>Magic mushrooms have the potential to be an effective antidepressant, according to new research.</description>
+<pubDate>Thu, 02 May 2024 09:22:00 +0100</pubDate>
+<guid>https://news.sky.com/story/magic-mushrooms-effective-for-treating-depression-study-13127348</guid>
+<enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-magic-mushrooms-psilocybin_6354909.jpg?20231110113155" length="0" type="image/jpeg"/>
+<media:description type="html">Magic mushrooms</media:description>
+<media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-magic-mushrooms-psilocybin_6354909.jpg?20231110113155" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-magic-mushrooms-psilocybin_6354909.jpg?20231110113155"/>
+...
+</item>
+<item>
+<title>London's black cab drivers file multimillion pound lawsuit against Uber</title>
+<link>https://news.sky.com/story/londons-black-cab-drivers-file-multimillion-pound-lawsuit-against-uber-13127341</link>
+<description>Uber faces a multimillion-pound lawsuit from London's black cab drivers in a revival of the longstanding dispute over the operation of the ride-hailing app in the UK capital.</description>
+<pubDate>Thu, 02 May 2024 09:04:00 +0100</pubDate>
+<guid>https://news.sky.com/story/londons-black-cab-drivers-file-multimillion-pound-lawsuit-against-uber-13127341</guid>
+<enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-uber-black-cab_6376105.jpg?20231129011358" length="0" type="image/jpeg"/>
+<media:description type="html"> </media:description>
+<media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-uber-black-cab_6376105.jpg?20231129011358" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-uber-black-cab_6376105.jpg?20231129011358"/>
+...
+</item>
+<item>
+<title>Apple trying to fix iPhone's alarming problem - as Samsung posts jibe on social media</title>
+<link>https://news.sky.com/story/apple-trying-to-fix-iphones-alarming-problem-13127321</link>
+<description>Apple is trying to fix a problem which caused some iPhone alarms to not go off.</description>
+<pubDate>Thu, 02 May 2024 08:21:00 +0100</pubDate>
+<guid>https://news.sky.com/story/apple-trying-to-fix-iphones-alarming-problem-13127321</guid>
+<enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-sleep-alarm_6540236.jpg?20240502083818" length="0" type="image/jpeg"/>
+<media:description type="html">Apple is trying to fix a problem causing some iPhone alarms to go off silently. Pic: iStock</media:description>
+<media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-sleep-alarm_6540236.jpg?20240502083818" width="1920" height="1080"/>
+<media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-sleep-alarm_6540236.jpg?20240502083818"/>
+...
+</item>
+...
+</channel>
+...
+</rss>
