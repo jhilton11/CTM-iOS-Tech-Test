@@ -9,9 +9,6 @@ This is a simple RSS Feed Reader built in iOS using Swift, UIKit, Clean MVVM arc
 - Users can reload news items by pulling to refresh.
 - Images were cached to improve user experience.
 
-![Simulator Screenshot - iPhone 15 - 2024-05-06 at 10 04 58](https://github.com/jhilton11/ParentPay-Technical-Test/assets/32772234/68284656-6f1e-4c8a-b3ea-be79a1440315)
-
-## App Architecture
 It was designed using clean MVVM architecture. It is to ensure separation of concerns, modularity and scalability of the app. This is to ensure that when changes are made in one part of the app, there's minimal regression in the codebase. The app is divided into 4 main modules: Model, Use Case, Data, View.
 
 ## Model
